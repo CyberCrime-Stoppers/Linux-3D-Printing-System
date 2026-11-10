@@ -22,7 +22,7 @@
 # Layout expected on the server:
 #   https://ld-sos.unixinbox.com/l3dps/drivers/<distro>/<pkg-name>.<ext>
 #   https://ld-sos.unixinbox.com/l3dps/drivers/<distro>/SHA256SUMS
-DOWNLOAD_DOMAIN="verified-drivers.unixinbox.com" # Verification and trusted drivers
+DOWNLOAD_DOMAIN="ld-sos.unixinbox.com" # Verification and trusted drivers
 DRIVER_PATH="/l3dps/drivers"   # path relative to domain
 VERIFY_CHECKSUMS="yes"      # yes/no - verify SHA256SUMS after download
 DOWNLOAD_DIR="$HOME/l3dps-downloads"
