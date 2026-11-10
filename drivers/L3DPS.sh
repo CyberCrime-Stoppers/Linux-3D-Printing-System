@@ -11,7 +11,7 @@
 #    3) Find matching driver/firmware packages hosted on your personal domain
 #    4) Download + verify (SHA256) the matched package
 #
-#  Author: Linus (CyberCrime-Stoppers) with Lumo
+#  Author: Scott Dev (CyberCrime-Stoppers)
 #  License: GPL-3.0-or-later
 #===============================================================================
 
